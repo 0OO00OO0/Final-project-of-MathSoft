@@ -1,0 +1,11 @@
+*.blg
+*.log
+*.xml
+*.aux
+*.nav
+*.snm
+*.bbl
+*.out
+*.toc
+.DS_STORE
+*/.DS_STORE
